@@ -1,3 +1,3 @@
 # Index
 This is the tutorial for us.
-html css and js for it
+html css and js .
